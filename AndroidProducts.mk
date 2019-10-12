@@ -15,9 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_enchilada.mk
-
-COMMON_LUNCH_CHOICES := \
-    arrow_enchilada-user \
-    arrow_enchilada-userdebug \
-    arrow_enchilada-eng
+    $(LOCAL_DIR)/rr_enchilada.mk
